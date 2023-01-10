@@ -1,0 +1,19 @@
+{
+  "name": "cli-isstracking",
+  "version": "1.0.0",
+  "description": "cmd line interface to get position of iss",
+  "main": "isstracking.js",
+  "scripts": {
+    "test": "node isstracking.js"
+  },
+  "keywords": [
+    "iss",
+    "tracking"
+  ],
+  "author": "zlimteck",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "signale": "^1.4.0"
+  }
+}
